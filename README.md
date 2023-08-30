@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @pat-washburn
-- 👀 I’m interested in cybersecurity, communications, and cats.
+- Senior UX Writer, DigiCert
+- 👀 Interested in cybersecurity, communications, and cats.
